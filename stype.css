@@ -1,0 +1,31 @@
+body{
+		margin: 2%;
+		background-color: #fff;
+        font-family: Verdana, Tahoma;
+}
+#image{
+    line-height:18em;
+		width: 20em;
+    height: 15em;
+    width: 20em;
+		border:1px solid black;
+        border-radius: 1%;
+		margin:0 auto;
+    background-color: #ccc;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color:#FFFFFF;
+    text-align: center;
+    background-size: 100%;
+    margin-bottom:25px;
+    font-size: 150%;
+}
+.preview{
+		width:24%;
+		margin-left:7%;
+    border: 2px solid black;
+    border-radius: 5%;
+}
+img{
+		width:100%;
+}
